@@ -6,13 +6,36 @@
     margin-right: auto;
 }
 
+#food-pic {
+    height: auto;
+    width: 600px;
+    display: block;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
 h1 {
     font-family: "Inter", serif;
-    background-color: rgb(129, 196, 255);
+    background-color: rgb(80, 196, 190);
     color: white;
     text-align: center;
     font-size: 60px;
     padding-left: 70px;
+}
+
+h1.food-title {
+    background-color: rgb(96, 231, 98);
+}
+
+h2 {
+
+    font-family: "Inter", serif;
+    background-color: rgb(255, 181, 103);
+    color: white;
+    text-align: center;
+    font-size: 20px;
 }
 
 a {
@@ -34,4 +57,10 @@ ul li {
     font-size: 20px;
     padding-bottom: 20px;
 
+}
+
+p {
+    font-family: "Inter", serif;
+    padding-left: 10px;
+    padding-right: 10px;
 }
