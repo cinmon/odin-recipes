@@ -6,7 +6,7 @@
     margin-right: auto;
 }
 
-#food-pic {
+.food-pic {
     height: auto;
     width: 600px;
     display: block;
